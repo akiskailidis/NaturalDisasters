@@ -1,0 +1,63 @@
+Portugal_Extr_Temps
+Portugal-Extreme temperature
+Year  Value
+1980: 0
+1981: 0
+1982: 0
+1983: 0
+1984: 0
+1985: 0
+1986: 0
+1987: 0
+1988: 0
+1989: 0
+1990: 0
+1991: 0
+1992: 0
+1993: 0
+1994: 0
+1995: 0
+1996: 0
+1997: 0
+1998: 0
+1999: 0
+2000: 0
+2001: 0
+2002: 0
+2003: 1
+2004: 0
+2005: 1
+2006: 1
+2007: 0
+2008: 1
+2009: 0
+2010: 1
+2011: 0
+2012: 0
+2013: 0
+2014: 0
+2015: 0
+2016: 0
+2017: 0
+2018: 1
+2019: 0
+2020: 0
+2021: 0
+2022: 1
+
+
+Descriptive Stats:  Descriptive Stats:
+ Mean: 0.16279069767441862
+ Standard Deviation: 0.37354368381881425
+ Min: 0.0
+ Max: 1.0
+ Kurtosis: 1.6605691056910525
+ gMean: 0.0
+ Count: 43
+ Median: 0.0
+ Sum: 7.0
+Regression Results:  Regression Analysis:
+ Intercept: -19.478556327393537
+ Slope: 0.009815765629719118
+ Slope Error: 0.004385814182007546
+ Trend: Tendency Stable
